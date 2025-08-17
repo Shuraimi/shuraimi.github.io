@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Predicting weather of Nashik
+description: This project predicts the weather of Nashik as to sunny, rainy, or cloudy.
+img: assets/img/nashik.jpg
+redirect: https://github.com/Shuraimi/Predicting-Nashik-Weather
 importance: 3
-category: work
+category: ML DL
 ---
 
 Every project has a beautiful feature showcase page.

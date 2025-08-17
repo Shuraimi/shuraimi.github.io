@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Bulldozer price prediction
+description: This project predicts the prices of bulldozers based on various features.
+img: assets/img/bulldozer.jpg
+importance: 6
+category: ML DL
+redirect: https://github.com/Shuraimi/bulldozer-price-prediction
 ---
 
 Every project has a beautiful feature showcase page.

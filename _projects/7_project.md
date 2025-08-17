@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
-importance: 1
-category: work
-related_publications: true
+title: Dog vision project
+description: This is a Deep Learning project which classifies dog breeds based on input image.
+img: assets/img/dog.jpg
+importance: 7
+category: ML DL
+redirect: https://github.com/Shuraimi/Dog-vision-project
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

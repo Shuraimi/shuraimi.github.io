@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Predicting age of Abalone
+description: This is a regression project that predicts the age of abalone from physical measurements.
+img: assets/img/abalone.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: ML DL
+redirect: https://github.com/Shuraimi/Regression-with-Abalone-dataset
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.

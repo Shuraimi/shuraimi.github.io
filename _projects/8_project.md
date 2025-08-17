@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
+title: Number System Converter
+description: This project converts numbers between different number systems (binary, decimal, hexadecimal).
+img: assets/video/Binary.gif
 importance: 2
-category: work
-giscus_comments: true
+category: Java
+redirect: https://github.com/Shuraimi/NumberSystemConverter
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.

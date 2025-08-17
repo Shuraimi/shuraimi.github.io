@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Heart disease prediction
+description: This project predicts the presence of heart disease in patients based on various health metrics.
+img: assets/img/heart.jpg
+importance: 5
+redirect: https://github.com/Shuraimi/heart-disease-project
+category: ML DL
 ---
 
 Every project has a beautiful feature showcase page.
