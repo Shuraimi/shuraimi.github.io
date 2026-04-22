@@ -10,21 +10,40 @@ nav_order: 5
 <p style="text-align:center;">From my very first lines of code to building ML and DL projects — here’s the path I’ve taken so far.</p>
 
 <!-- Item -->
+  <div class="jv-item right">
+    <div class="jv-marker">
+      <span class="jv-dot"></span>
+      <span class="jv-line"></span>
+    </div>
+    <div class="jv-content">
+      <div class="jv-date">Apr 2026 - present</div>
+      <h3>🔗 Getting familiar with Generative AI using LangChain</h3>
+      <p>Currently learning LangChain from the CampusX's YouTube playlist Then planning to build a few projects in GenAI and then stat LangGraph in order to build Agentic projects.</p>
+      <p><strong>Skills/topics Learned:</strong> LangChain basics, Ollama, Chains, Runnables and Components of RAG
+
+
+</p>
+      <ul>
+        <li>Will build a RAG project</li>
+      </ul>
+    </div>
+  </div>
+
+<!-- Item -->
   <div class="jv-item left">
     <div class="jv-marker">
       <span class="jv-dot"></span>
       <span class="jv-line"></span>
     </div>
     <div class="jv-content">
-      <div class="jv-date">2025 – Present</div>
+      <div class="jv-date">Feb 2025 – Oct 2025</div>
       <h3>🔥 Mastering PyTorch Fundamentals</h3>
       <p>Currently studying PyTorch fundamentals via Daniel Bourke’s textbook. Deepening DL knowledge to build advanced solutions.</p>
       <p><strong>Skills Learned:</strong> PyTorch fundamentals, DL implementation
 
 </p>
       <ul>
-        <li>Applying PyTorch in ongoing projects</li>
-        <li>Building foundations for future solutions</li>
+        <li>Build an Indian Food Vision project <a href='https://indianfoodvision.netlify.app/'\></li>
       </ul>
     </div>
   </div>

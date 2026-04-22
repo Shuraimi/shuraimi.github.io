@@ -102,7 +102,7 @@
       "name": "Data Science Frameworks",
       "level": "",
       "icon": "",
-      "keywords": ["TensorFlow", "Keras"]
+      "keywords": ["PyTorch","TensorFlow", "Keras"]
     },
     {
       "name": "Web Technologies",
@@ -115,6 +115,13 @@
   "interests": [],
   "references": [],
   "projects": [
+    {
+      "name": "Indian Food Vision",
+      "summary": "Indian Food Vision is a computer vision project that classifies 80 popular Indian dishes with 85% macro F1 score and deployed model using FastAPI hosted on Netify",
+      "highlights": ["Transfer learning", "Computer vision", "Model deployment","Experiment Tracking"],
+      "keywords": ["FastAPI", "MobileNetV3", "Netlify"],
+      "url": "https://indianfoodvision.netlify.app/"
+    },
     {
       "name": "Pokémon Gen 9 Image Classifier",
       "summary": "Image classifier for Pokémon Generation 9 achieving 87% accuracy using fastai library and ResNet101 architecture, deployed on Hugging Face using Gradio.",
