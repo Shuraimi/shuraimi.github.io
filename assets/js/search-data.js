@@ -46,7 +46,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-digital-poke-professor-generation-9-pokemon-classifier",
+          section: "News",},{id: "projects-indian-food-vision",
+          title: 'Indian Food Vision',
+          description: "A indian foods image classification project trained on the Khana dataset.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/0_project/";
+            },},{id: "projects-digital-poke-professor-generation-9-pokemon-classifier",
           title: 'Digital Poke-Professor - Generation 9 Pokemon Classifier',
           description: "An image classifier which is trained to classify the 120 unique Pokemons trained using resnet101 and fastai.",
           section: "Projects",handler: () => {
