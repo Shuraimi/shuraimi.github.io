@@ -46,11 +46,26 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-indian-food-vision",
+          section: "News",},{id: "projects-diabetic-retinopathy-grading",
+          title: 'Diabetic Retinopathy Grading',
+          description: "This project is trained to detect Diabetic Retinopathy severity levels using DenseNet121 given a retina / fundus image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/0_project/";
+            },},{id: "projects-indian-food-vision",
           title: 'Indian Food Vision',
           description: "A indian foods image classification project trained on the Khana dataset.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/0_project/";
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-indian-recipe-rag",
+          title: 'Indian Recipe RAG',
+          description: "RAG project which takes a user query describing their needs and gets the recipe from vector DataBase",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_project/";
+            },},{id: "projects-chat-with-pdf",
+          title: 'Chat with PDF',
+          description: "RAG project which takes a PDF and user can ask questions from it",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_project/";
             },},{id: "projects-digital-poke-professor-generation-9-pokemon-classifier",
           title: 'Digital Poke-Professor - Generation 9 Pokemon Classifier',
           description: "An image classifier which is trained to classify the 120 unique Pokemons trained using resnet101 and fastai.",
