@@ -2,7 +2,7 @@
 layout: page
 title: Diabetic Retinopathy Grading
 description: This project is trained to detect Diabetic Retinopathy severity levels using DenseNet121 given a retina / fundus image
-img: assets/img/diabetic.htm
+img: assets/img/diabetic-retinopathy-treatment.png
 importance: 3
 category: ML DL
 redirect: https://diabetic-retinopathy-detection-densenet121.streamlit.app/
