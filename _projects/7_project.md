@@ -3,7 +3,7 @@ layout: page
 title: Dog vision project
 description: This is a Deep Learning project which classifies dog breeds based on input image.
 img: assets/img/dog.jpg
-importance: 7
+importance: 10
 category: ML DL
 redirect: https://github.com/Shuraimi/Dog-vision-project
 related_publications: false

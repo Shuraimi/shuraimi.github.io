@@ -3,7 +3,7 @@ layout: page
 title: Number System Converter
 description: This project converts numbers between different number systems (binary, decimal, hexadecimal).
 img: assets/video/Binary.gif
-importance: 2
+importance: 1
 category: Java
 redirect: https://github.com/Shuraimi/NumberSystemConverter
 giscus_comments: false

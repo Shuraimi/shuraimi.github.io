@@ -3,7 +3,7 @@ layout: page
 title: Bulldozer price prediction
 description: This project predicts the prices of bulldozers based on various features.
 img: assets/img/bulldozer.jpg
-importance: 6
+importance: 9
 category: ML DL
 redirect: https://github.com/Shuraimi/bulldozer-price-prediction
 ---

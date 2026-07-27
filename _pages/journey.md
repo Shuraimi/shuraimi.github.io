@@ -219,11 +219,11 @@ nav_order: 5
 <!-- Stats Section -->
 <div class="journey-stats">
   <div class="stat">
-    <div class="stat-value">7+</div>
+    <div class="stat-value">11+</div>
     <div class="stat-label">Projects Completed</div>
   </div>
   <div class="stat">
-    <div class="stat-value">10</div>
+    <div class="stat-value">12</div>
     <div class="stat-label">Technologies Learnt</div>
   </div>
   <div class="stat">

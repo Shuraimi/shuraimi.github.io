@@ -3,7 +3,7 @@ layout: page
 title: Predicting CyberSecurity threats
 description: This project predicts cybersecurity threats trained on network intrusion detection dataset.
 img: assets/img/cyber.jpg
-importance: 4
+importance: 7
 redirect: https://github.com/Shuraimi/Predicting-cyber-threats-using-UNSW-NB15-dataset
 category: ML DL
 ---

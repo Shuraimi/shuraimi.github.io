@@ -4,7 +4,7 @@ title: Predicting weather of Nashik
 description: This project predicts the weather of Nashik as to sunny, rainy, or cloudy.
 img: assets/img/nashik.jpg
 redirect: https://github.com/Shuraimi/Predicting-Nashik-Weather
-importance: 3
+importance: 6
 category: ML DL
 ---
 

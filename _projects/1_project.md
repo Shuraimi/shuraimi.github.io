@@ -3,7 +3,7 @@ layout: page
 title: Digital Poke-Professor - Generation 9 Pokemon Classifier
 description: An image classifier which is trained to classify the 120 unique Pokemons trained using resnet101 and fastai.   
 img: assets/img/poke.jpg
-importance: 1
+importance: 4
 category: ML DL
 ---
 

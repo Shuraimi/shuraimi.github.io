@@ -3,7 +3,7 @@ layout: page
 title: Heart disease prediction
 description: This project predicts the presence of heart disease in patients based on various health metrics.
 img: assets/img/heart.jpg
-importance: 5
+importance: 8
 redirect: https://github.com/Shuraimi/heart-disease-project
 category: ML DL
 ---

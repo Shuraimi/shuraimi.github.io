@@ -3,7 +3,7 @@ layout: page
 title: Predicting age of Abalone
 description: This is a regression project that predicts the age of abalone from physical measurements.
 img: assets/img/abalone.jpg
-importance: 2
+importance: 5
 category: ML DL
 redirect: https://github.com/Shuraimi/Regression-with-Abalone-dataset
 giscus_comments: false
