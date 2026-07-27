@@ -23,8 +23,8 @@ nav_order: 5
 
 </p>
       <ul>
-        <li>Build an Indian Recipe RAG project <a href='https://indianreciperag.streamlit.app/'\></li>
-        <li>Also build Diabetic Retinopathy Grading app <a href='https://diabetic-retinopathy-detection-densenet121.streamlit.app/'\></li>
+        <li>Build an Indian Recipe RAG project https://indianreciperag.streamlit.app/ </li>
+        <li>Also build Diabetic Retinopathy Grading app https://diabetic-retinopathy-detection-densenet121.streamlit.app/</li>
       </ul>
     </div>
   </div>
@@ -44,7 +44,7 @@ nav_order: 5
 </p>
       <p>Built RAG projects</p>
       <ul>
-        <li>Chat with PDF :- <a href='https://chat-with-pdf-rag-application.streamlit.app/'\> </li>
+        <li>Chat with PDF :- https://chat-with-pdf-rag-application.streamlit.app/</li>
       </ul>
     </div>
   </div>
@@ -63,7 +63,7 @@ nav_order: 5
 
 </p>
       <ul>
-        <li>Build an Indian Food Vision project <a href='https://indianfoodvision.netlify.app/'\></li>
+        <li>Build an Indian Food Vision project https://indianfoodvision.netlify.app/</li>
       </ul>
     </div>
   </div>
