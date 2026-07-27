@@ -10,21 +10,41 @@ nav_order: 5
 <p style="text-align:center;">From my very first lines of code to building ML and DL projects — here’s the path I’ve taken so far.</p>
 
 <!-- Item -->
+  <div class="jv-item left">
+    <div class="jv-marker">
+      <span class="jv-dot"></span>
+      <span class="jv-line"></span>
+    </div>
+    <div class="jv-content">
+      <div class="jv-date">June 2026 – Aug 2026</div>
+      <h3>LLM ZoomCamp Course</h3>
+      <p>I took the LLMZoomCamp course and learnt a lot from it like monitoring, evaluation and best practises while building RAG / Agent apps.</p>
+      <p><strong>Skills Learned:</strong> LangChain, Streamlit, SQLite, monitoring RAG
+
+</p>
+      <ul>
+        <li>Build an Indian Recipe RAG project <a href='https://indianreciperag.streamlit.app/'\></li>
+        <li>Also build Diabetic Retinopathy Grading app <a href='https://diabetic-retinopathy-detection-densenet121.streamlit.app/'\></li>
+      </ul>
+    </div>
+  </div>
+
+<!-- Item -->
   <div class="jv-item right">
     <div class="jv-marker">
       <span class="jv-dot"></span>
       <span class="jv-line"></span>
     </div>
     <div class="jv-content">
-      <div class="jv-date">Apr 2026 - present</div>
+      <div class="jv-date">Apr 2026 - June 2026</div>
       <h3>🔗 Getting familiar with Generative AI using LangChain</h3>
-      <p>Currently learning LangChain from the CampusX's YouTube playlist Then planning to build a few projects in GenAI and then stat LangGraph in order to build Agentic projects.</p>
+      <p>Currently learning LangChain from the CampusX's YouTube playlist Then planning to build a few projects in GenAI and then start LangGraph in order to build Agentic projects.</p>
       <p><strong>Skills/topics Learned:</strong> LangChain basics, Ollama, Chains, Runnables and Components of RAG
 
-
 </p>
+      <p>Built RAG projects</p>
       <ul>
-        <li>Will build a RAG project</li>
+        <li>Chat with PDF :- <a href='https://chat-with-pdf-rag-application.streamlit.app/'\> </li>
       </ul>
     </div>
   </div>

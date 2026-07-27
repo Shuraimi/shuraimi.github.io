@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Indian Food Vision
-description: A indian foods image classification project trained on the Khana dataset.   
-img: assets/img/india-food.png
+title: Diabetic Retinopathy Grading
+description: This project is trained to detect Diabetic Retinopathy severity levels using DenseNet121 given a retina / fundus image
+img: assets/img/diabetic.htm
 importance: 1
 category: ML DL
-redirect: https://indianfoodvision.netlify.app/
+redirect: https://diabetic-retinopathy-detection-densenet121.streamlit.app/
 giscus_comments: false
 ---
 
