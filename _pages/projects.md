@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of my projects.
 nav: true
 nav_order: 3
-display_categories: ['ML DL', Java, 'GEN AI RAG']
+display_categories: ['ML DL', 'GEN AI RAG',Java]
 horizontal: false
 ---
 
